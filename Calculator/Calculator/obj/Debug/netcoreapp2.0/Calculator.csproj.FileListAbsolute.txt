@@ -1,0 +1,11 @@
+F:\C# Games\Calculator\Calculator\bin\Debug\netcoreapp2.0\Calculator.deps.json
+F:\C# Games\Calculator\Calculator\bin\Debug\netcoreapp2.0\Calculator.runtimeconfig.json
+F:\C# Games\Calculator\Calculator\bin\Debug\netcoreapp2.0\Calculator.runtimeconfig.dev.json
+F:\C# Games\Calculator\Calculator\bin\Debug\netcoreapp2.0\Calculator.dll
+F:\C# Games\Calculator\Calculator\bin\Debug\netcoreapp2.0\Calculator.pdb
+F:\C# Games\Calculator\Calculator\obj\Debug\netcoreapp2.0\Calculator.csprojResolveAssemblyReference.cache
+F:\C# Games\Calculator\Calculator\obj\Debug\netcoreapp2.0\Calculator.csproj.CoreCompileInputs.cache
+F:\C# Games\Calculator\Calculator\obj\Debug\netcoreapp2.0\Calculator.AssemblyInfoInputs.cache
+F:\C# Games\Calculator\Calculator\obj\Debug\netcoreapp2.0\Calculator.AssemblyInfo.cs
+F:\C# Games\Calculator\Calculator\obj\Debug\netcoreapp2.0\Calculator.dll
+F:\C# Games\Calculator\Calculator\obj\Debug\netcoreapp2.0\Calculator.pdb
