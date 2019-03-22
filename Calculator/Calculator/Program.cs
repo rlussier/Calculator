@@ -6,7 +6,9 @@ namespace Calculator
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Calculator");
+            Console.BackgroundColor = ConsoleColor = Blue;
+            Console.ForegroundColor = ConsoleColor = Yellow;
+            
             int num1 = 0; int num2 = 0;
 
             Console.WriteLine("Do a calculation\r");
